@@ -10,4 +10,5 @@ namespace MvcMusicStore.ViewModels
         public decimal CartTotal { get; set; }
     }
     //thêm nội dung tại remote
+    //ghi đè từ client
 }
