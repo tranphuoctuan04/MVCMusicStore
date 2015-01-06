@@ -1,0 +1,7 @@
+D:\tuantp@live.com\Copy\___Giao hang nhanh - Work\__work01\mvcmusicstore-d4ff979010f46d2ab9d229069e515457bb6cca5e\MvcMusicStore\bin\MvcMusicStore.dll
+D:\tuantp@live.com\Copy\___Giao hang nhanh - Work\__work01\mvcmusicstore-d4ff979010f46d2ab9d229069e515457bb6cca5e\MvcMusicStore\bin\MvcMusicStore.pdb
+D:\tuantp@live.com\Copy\___Giao hang nhanh - Work\__work01\mvcmusicstore-d4ff979010f46d2ab9d229069e515457bb6cca5e\MvcMusicStore\bin\EntityFramework.dll
+D:\tuantp@live.com\Copy\___Giao hang nhanh - Work\__work01\mvcmusicstore-d4ff979010f46d2ab9d229069e515457bb6cca5e\MvcMusicStore\bin\EntityFramework.xml
+D:\tuantp@live.com\Copy\___Giao hang nhanh - Work\__work01\mvcmusicstore-d4ff979010f46d2ab9d229069e515457bb6cca5e\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
+D:\tuantp@live.com\Copy\___Giao hang nhanh - Work\__work01\mvcmusicstore-d4ff979010f46d2ab9d229069e515457bb6cca5e\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+D:\tuantp@live.com\Copy\___Giao hang nhanh - Work\__work01\mvcmusicstore-d4ff979010f46d2ab9d229069e515457bb6cca5e\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
