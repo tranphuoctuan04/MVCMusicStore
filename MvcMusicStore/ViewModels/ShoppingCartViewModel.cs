@@ -4,6 +4,7 @@ using MvcMusicStore.Models;
 namespace MvcMusicStore.ViewModels
 {
     //nội dung sửa lại ở local
+    //update tại remote
     public class ShoppingCartViewModel
     {
         public List<Cart> CartItems { get; set; }
