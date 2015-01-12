@@ -23,6 +23,11 @@ namespace MvcMusicStore.Controllers
             return View(albums);
         }
 
+        /// <summary>
+        /// tuantp, comment tại HomeController, GetTopSellingAlbums
+        /// </summary>
+        /// <param name="count"></param>
+        /// <returns></returns>
         private List<Album> GetTopSellingAlbums(int count)
         {
             // Group the order details by album and return
