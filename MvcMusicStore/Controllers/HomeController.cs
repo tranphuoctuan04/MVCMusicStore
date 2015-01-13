@@ -11,10 +11,7 @@ namespace MvcMusicStore.Controllers
         // GET: /Home/
 
         MusicStoreEntities storeDB = new MusicStoreEntities();
-        /// <summary>
-        /// Trần phước Tuấn mới thêm comment tại HomeController, Index
-        /// </summary>
-        /// <returns></returns>
+      
         public ActionResult Index()
         {
             // Get most popular albums
